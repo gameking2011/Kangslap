@@ -20,7 +20,7 @@ Into your Windows Terminal [settings.json](https://learn.microsoft.com/en-us/win
     "profiles": {
         "defaults": {
             "antialiasingMode": "cleartype",
-            "experimental.pixelShaderPath": "X:/Path/to/Kangslap.hlsl",
+            "experimental.pixelShaderPath": "X:\\Path\\to\\Kangslap.hlsl",
             "opacity": 0,
             "useAcrylic": true,
             "useAtlasEngine": false
